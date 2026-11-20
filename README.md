@@ -11,3 +11,6 @@ This repository includes a GitHub Actions workflow at `.github/workflows/pages.y
 After pushing to `main`, open **Settings → Pages** and set **Build and deployment → Source** to **GitHub Actions** if it is not already selected. The workflow will then deploy the site.
 
 The page is a static site; its entry point is `index.html`.
+
+
+Deployment configuration confirmed for GitHub Pages.
